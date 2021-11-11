@@ -36,6 +36,7 @@ The proportion of users in the last year, the majority are members. Casual users
 
 **Act**<br/>
 To summarize, all possible campaign suggestions are:
+
 1.Promote according to the popular months, and put on advertising.<br/>
 2.Promote the two-day ticket or time-reward membership program to attract sign-up for members during the holiday period.<br/>
 3.Follow-up suggestions can be plans survey to understand their choice between classic bikes and electronic bikes.
