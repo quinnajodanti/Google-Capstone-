@@ -1,6 +1,6 @@
 # Google-Data Analyst Capstone
 
-**Quick Intro**
+#**Quick Intro**
 This case study is to verify my learning steps for the last two months of studying in the [Data Analyst course](https://www.coursera.org/account/accomplishments/professional-cert/V7TM6D7878JB).
 
 **Scenario**
