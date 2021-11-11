@@ -16,13 +16,13 @@ To find out user behavior between these two types of causal users and members. I
 
 With download the data of information as following:<br/>
 
-Unique id for each ride<br/>
-Type of bikes (classic, electric)<br/>
-When the ride started<br/>
-When the ride ended<br/><br/>
-Where the ride started<br/>
-Where the ride ended<br/>
-Whether is a member or a casual user<br/>
+1.Unique id for each ride<br/>
+2.Type of bikes (classic, electric)<br/>
+3.When the ride started<br/>
+4.When the ride ended<br/><br/>
+5.Where the ride started<br/>
+6.Where the ride ended<br/>
+7.Whether is a member or a casual user<br/>
 Ps. With download the data according to the data [license agreement](https://www.divvybikes.com/data-license-agreement).
 
 **Process**<br/>
