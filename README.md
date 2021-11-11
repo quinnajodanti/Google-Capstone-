@@ -19,7 +19,7 @@ With download the data of information as following:<br/>
 1.Unique id for each ride<br/>
 2.Type of bikes (classic, electric)<br/>
 3.When the ride started<br/>
-4.When the ride ended<br/><br/>
+4.When the ride ended<br/>
 5.Where the ride started<br/>
 6.Where the ride ended<br/>
 7.Whether is a member or a casual user<br/>
@@ -36,7 +36,6 @@ The proportion of users in the last year, the majority are members. Casual users
 
 **Act**<br/>
 To summarize, all possible campaign suggestions are:
-
 1.Promote according to the popular months, and put on advertising.<br/>
 2.Promote the two-day ticket or time-reward membership program to attract sign-up for members during the holiday period.<br/>
 3.Follow-up suggestions can be plans survey to understand their choice between classic bikes and electronic bikes.
